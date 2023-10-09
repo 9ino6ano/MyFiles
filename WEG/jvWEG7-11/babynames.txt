@@ -1,0 +1,11 @@
+Rank	Male 	Births	Percentage	Female		Births	Percentage
+1	Liam	150	13.33		Olivia		100	20
+2	Noah	250	8.0		Emma		150	13.33
+3	Oliver	500	4.0		Charlotte	250	8.0
+4	Elijah	300	6.67		Amelia		100	20
+5	James	150	13.33		Ava		50	40
+6	William	50	40		Sophia		150	13.33
+7	Benjamin 100	20		Isabella	300	6.67
+8	Lucas	250	8.0		Mia		500	4.0
+9	Henry	150	13.33		Evelyn		250	8.0
+10	Theodore 100	20		Harper		150	13.33
