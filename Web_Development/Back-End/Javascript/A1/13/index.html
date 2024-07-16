@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>properties of check, combo and radio</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <h1>This is a Combo,Check box and Radio Button Page.</h1>
+    <link rel="stylesheet" href="style.css">
+<hr>
+<!-- This was emulating a check box
+    <label for="mycheckbox">Subscribe</label>
+    <input type="checkbox" id="mycheckbox"><br>
+    <button type="button" id="mybutton" >Submit</button>
+-->
+<!--create 3 labels + 3 radio buttons and 1 main button
+order of creating elements matters or display will be mushy-->
+<br>
+<label for="cardbtn">Visa Card</label>
+<input type="radio" name="card"  id="cardbtn">
+<label for="masterbtn">Master Card</label>
+<input type="radio" name="card"  id="masterbtn">
+<label for="paypalbtn">Paypal</label>
+<input type="radio" name="card"  id="paypalbtn">
+
+<button type="button" id="paybtn" title="Payment method">Payment</button><br>
+
+    <script src="index.js" ></script>
+</body>
+</html>

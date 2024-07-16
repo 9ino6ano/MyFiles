@@ -1,0 +1,11 @@
+#myImg{
+    border: 1px solid;
+}
+#aDiv{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+
+}
